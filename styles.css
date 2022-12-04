@@ -8,6 +8,8 @@ body {
   background-color: #faeada;
   color: #7d5160;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  max-width: 1000px;
+  margin: auto;
 }
 
 ul,
@@ -29,6 +31,32 @@ a {
   height: 24px;
   width: 24px;
   margin: 0 4px;
+}
+
+.filters {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-height: 200px;
+  max-width: 100%;
+}
+
+.filter-container {
+  margin: 4px;
+  padding: 4px;
+  border: solid 1px hsl(30, 76%, 92%);
+  border-radius: 8px;
+  word-wrap: normal;
+  max-width: 300px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.filter-container:hover {
+  cursor: pointer;
+  background-color: #f08188;
+  border-color: #f08188;
+  color: #faeada;
 }
 
 .categories {
