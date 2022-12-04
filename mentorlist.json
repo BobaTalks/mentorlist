@@ -1,5 +1,8 @@
 {
-  "mentors": [
+  "lastmodified": "December 2022",
+  "mentors": 
+  // --------- Paste after this line ---------
+  [
     {
       "category": "Life Advice",
       "name": "Jeff Nguyen",
@@ -601,4 +604,5 @@
       "calendly": "https://calendly.com/huytran321/"
     }
   ]
+  // --------- End paste section ---------
 }
