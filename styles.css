@@ -12,6 +12,16 @@ body {
   margin: auto;
 }
 
+footer {
+  height: 100px;
+  padding: auto;
+  display: flex;
+}
+
+footer .info {
+  margin: auto;
+}
+
 ul,
 li {
   margin: 0;
