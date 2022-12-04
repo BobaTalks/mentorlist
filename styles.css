@@ -1,0 +1,103 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #faeada;
+  color: #7d5160;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo {
+  height: 24px;
+  width: 24px;
+  margin: 0 4px;
+}
+
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.category {
+  border: solid 2px #7d5160;
+  margin: 12px auto;
+  width: 300px;
+  text-align: center;
+}
+
+.category-title {
+  background-color: #7d5160;
+  color: #faeada;
+  display: flex;
+  height: 64px;
+  padding: 12px;
+}
+
+.category-title strong {
+  margin: auto;
+}
+
+.mentor {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8px;
+  text-align: left;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.status {
+  align-items: center;
+  color: #f08188;
+  display: flex;
+  font-size: x-small;
+  vertical-align: middle;
+}
+
+.status strong {
+  margin: auto;
+}
+
+.mentor:nth-child(2n) {
+  background-color: #fff7f7;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+
+.logo:hover {
+  transform: scale(1.2);
+}
+
+.calendly[disabled="disabled"] {
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+.calendly[disabled="disabled"] > .logo {
+  opacity: 0.5;
+}
