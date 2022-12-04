@@ -2,10 +2,16 @@
   "lastModified": "December 2022",
   "mentors": [
     {
-      "category": "Life Advice",
+      "category": "Dating",
       "name": "Jeff Nguyen",
-      "linkedin": "https://www.linkedin.com/in/jvngyn",
-      "status": "Please DM"
+      "status": "Please DM",
+      "linkedin": "https://www.linkedin.com/in/jvngyn/"
+    },
+    {
+      "category": "Life Advice",
+      "name": "Simon Chu",
+      "linkedin": "https://www.linkedin.com/in/simonchu8128/",
+      "calendly": "https://calendly.com/simonchu496/30min?month=2022-12"
     },
     {
       "category": "Life Advice",
@@ -50,10 +56,238 @@
       "calendly": "https://calendly.com/alongcamekatrina/meet-greet"
     },
     {
-      "category": "Life Advice",
-      "name": "Simon Chu",
-      "linkedin": "https://www.linkedin.com/in/simonchu8128/",
-      "calendly": "https://calendly.com/simonchu496/30min?month=2022-12"
+      "category": "Mental Health",
+      "name": "Jen L",
+      "linkedin": "https://www.linkedin.com/in/jlam/",
+      "calendly": "https://calendly.com/jammica"
+    },
+    {
+      "category": "Mental Health",
+      "name": "Ryann Tanap",
+      "linkedin": "https://www.linkedin.com/in/rmtanap/",
+      "calendly": "https://calendly.com/rmtanap/bobatalk"
+    },
+    {
+      "category": "Mental Health",
+      "name": "Gary Hwu",
+      "linkedin": "https://www.linkedin.com/in/garyhwu/",
+      "calendly": "https://calendly.com/garyhwu"
+    },
+    {
+      "category": "Mental Health",
+      "name": "Marian Huynh",
+      "linkedin": "https://www.linkedin.com/in/marianhuynh",
+      "calendly": "https://calendly.com/marianmh"
+    },
+    {
+      "category": "Mental Health",
+      "name": "Surabhi Kaplay",
+      "linkedin": "https://www.linkedin.com/in/surabhi-kaplay/",
+      "calendly": "https://calendly.com/svkaplay/30min"
+    },
+    {
+      "category": "Mental Health",
+      "name": "Seo Choe",
+      "linkedin": "https://www.linkedin.com/in/seochoe/",
+      "calendly": "https://calendly.com/seochoe"
+    },
+    {
+      "category": "Mental Health",
+      "name": "Sayali Kandarkar",
+      "linkedin": "https://www.linkedin.com/in/sayalikandarkar/",
+      "calendly": "https://calendly.com/sayalimat/boba-talks"
+    },
+    {
+      "category": "Mental Health",
+      "name": "Jason Wu",
+      "linkedin": "https://www.linkedin.com/in/jason-wu-41b006127/",
+      "calendly": "https://calendly.com/wraichu"
+    },
+    {
+      "category": "Career Consulting",
+      "name": "Rob Kim",
+      "linkedin": "https://www.linkedin.com/in/robsungryongkim/",
+      "calendly": "https://calendly.com/coachrobkim/bobatalks"
+    },
+    {
+      "category": "Career Consulting",
+      "name": "Nelson Ingle",
+      "linkedin": "https://linkedin.com/in/nelsoningle",
+      "calendly": "https://calendly.com/simplyagile/boba-talks"
+    },
+    {
+      "category": "Career Consulting",
+      "name": "Nawara Medders",
+      "linkedin": "https://www.linkedin.com/in/nfmedders/",
+      "calendly": "https://calendly.com/nfmedders/bobatalks-nawara"
+    },
+    {
+      "category": "Career Consulting",
+      "name": "Raymond Chung",
+      "linkedin": "https://www.linkedin.com/in/raymondchung95/",
+      "calendly": "https://calendly.com/raymondchung"
+    },
+    {
+      "category": "Career Consulting",
+      "name": "Alex Imahara",
+      "linkedin": "https://www.linkedin.com/in/aleximahara/",
+      "calendly": "https://calendly.com/aimahara/boba-talks"
+    },
+    {
+      "category": "Women in STEM, POC, WOC, AAPI, or LGBTQ+ Support",
+      "name": "Catherine Kim",
+      "linkedin": "https://www.linkedin.com/in/cthrnkm",
+      "calendly": "https://calendly.com/cthrnkm"
+    },
+    {
+      "category": "Women in STEM, POC, WOC, AAPI, or LGBTQ+ Support",
+      "name": "Yuna Park",
+      "linkedin": "https://www.linkedin.com/in/yrosepark/",
+      "calendly": "https://calendly.com/yrosepark"
+    },
+    {
+      "category": "Women in STEM, POC, WOC, AAPI, or LGBTQ+ Support",
+      "name": "Sola Chang",
+      "linkedin": "https://www.linkedin.com/in/sola8/",
+      "calendly": "https://calendly.com/solac"
+    },
+    {
+      "category": "Women in STEM, POC, WOC, AAPI, or LGBTQ+ Support",
+      "name": "Lacy Pennell",
+      "linkedin": "https://www.linkedin.com/in/lacypennell/",
+      "calendly": "https://calendly.com/lacypennell/30min"
+    },
+    {
+      "category": "Women in STEM, POC, WOC, AAPI, or LGBTQ+ Support",
+      "name": "Christina Warmbrunn",
+      "linkedin": "https://www.linkedin.com/in/christina-warmbrunn/",
+      "calendly": "https://calendly.com/cwarmbrunn/bobatalks?month=2022-10"
+    },
+    {
+      "category": "Social Media / General Media",
+      "name": "Raymond Luu",
+      "linkedin": "https://www.linkedin.com/in/raymondluu15/",
+      "calendly": "https://calendly.com/rluu15/30min?month=2022-12"
+    },
+    {
+      "category": "UX, UI, Product Designers",
+      "name": "Thy Tran",
+      "linkedin": "https://www.linkedin.com/in/thy-tran",
+      "calendly": "https://calendly.com/thytheetran/boba-talks-connect?month=2022-12"
+    },
+    {
+      "category": "UX, UI, Product Designers",
+      "name": "Emma Li",
+      "linkedin": "https://www.linkedin.com/in/emmalili/",
+      "calendly": "https://calendly.com/uxemmali/bobatalk?month=2022-09"
+    },
+    {
+      "category": "UX, UI, Product Designers",
+      "name": "Michelle Ta",
+      "linkedin": "https://www.linkedin.com/in/michellequynhnhita/",
+      "calendly": "https://calendly.com/michellequynhnhita/mentorshipservices-michelle-"
+    },
+    {
+      "category": "UX, UI, Product Designers",
+      "name": "Julia Cheng",
+      "linkedin": "https://www.linkedin.com/in/julia-cheng-9825771b5",
+      "calendly": "https://calendly.com/juccheng/zoom-meeting-julia-you?month=2022-10"
+    },
+    {
+      "category": "UX, UI, Product Designers",
+      "name": "Jordan Yep",
+      "linkedin": "https://www.linkedin.com/in/jordanyep/",
+      "calendly": "https://calendly.com/jordanyep"
+    },
+    {
+      "category": "UX, UI, Product Designers",
+      "name": "Andrew Wong",
+      "linkedin": "https://www.linkedin.com/in/awong11/",
+      "calendly": "https://calendly.com/andrewhuwong11/15min"
+    },
+    {
+      "category": "Gaming",
+      "name": "Marty Wong",
+      "linkedin": "https://www.linkedin.com/in/martin-wong-73aa72a3/",
+      "calendly": "https://calendly.com/martin-wong-512"
+    },
+    {
+      "category": "Gaming",
+      "name": "Christina Warmbrunn",
+      "linkedin": "https://www.linkedin.com/in/christina-warmbrunn/",
+      "calendly": "https://calendly.com/cwarmbrunn/bobatalks?month=2022-10"
+    },
+    {
+      "category": "Gaming",
+      "name": "David Park",
+      "linkedin": "https://www.linkedin.com/in/parkhdavid/",
+      "calendly": "https://calendly.com/parkhdavid/bobatalks-chat-david-park"
+    },
+    {
+      "category": "Gaming",
+      "name": "Roselle Ardosa",
+      "linkedin": "https://www.linkedin.com/in/roselle-ardosa/",
+      "calendly": "https://calendly.com/talkwithroselle/30min?month=2022-12"
+    },
+    {
+      "category": "Data",
+      "name": "Anh Nguyen (Yumi)",
+      "linkedin": "https://www.linkedin.com/in/hoanganh197/",
+      "calendly": "https://calendly.com/d/dy7-qq4-n6c/bobatalk-block"
+    },
+    {
+      "category": "Data",
+      "name": "Alex Chang",
+      "linkedin": "https://www.linkedin.com/in/alex1491949",
+      "calendly": "https://calendly.com/alexchang149/30min"
+    },
+    {
+      "category": "Data",
+      "name": "George Chen",
+      "linkedin": "https://www.linkedin.com/in/hau-hsueh-chen/",
+      "calendly": "https://calendly.com/georgechen1997"
+    },
+    {
+      "category": "Data",
+      "name": "Shin Tran",
+      "linkedin": "https://www.linkedin.com/in/swtran/",
+      "calendly": "https://calendly.com/swtran"
+    },
+    {
+      "category": "BioTech",
+      "name": "Jenny To",
+      "linkedin": "https://www.linkedin.com/in/thaojennyto/",
+      "calendly": "https://calendly.com/jennytto/boba-talk"
+    },
+    {
+      "category": "BioTech",
+      "name": "Zoila Rossi",
+      "linkedin": "https://www.linkedin.com/in/zoila-roh/",
+      "calendly": "https://calendly.com/zoila_/bobatalks-1-on-1?month=2022-11"
+    },
+    {
+      "category": "Engineering",
+      "name": "Rain Cinco",
+      "linkedin": "https://linkedin.com/in/raincinco",
+      "calendly": "https://calendly.com/raincinco"
+    },
+    {
+      "category": "Engineering",
+      "name": "Carol Kao",
+      "linkedin": "https://www.linkedin.com/in/carol-kao-08092319a/",
+      "calendly": "https://calendly.com/ckaoys3/bobatalks?month=2022-09"
+    },
+    {
+      "category": "Engineering",
+      "name": "Junaid S",
+      "linkedin": "https://www.linkedin.com/in/junaid-s/",
+      "calendly": "https://calendly.com/jsaeed/30min?month=2022-09"
+    },
+    {
+      "category": "Engineering",
+      "name": "Tina Do",
+      "linkedin": "https://www.linkedin.com/in/tina-do/",
+      "calendly": "https://calendly.com/tina-do-1"
     },
     {
       "category": "Software Engineering",
@@ -112,8 +346,8 @@
     {
       "category": "Software Engineering",
       "name": "Xue Hua",
-      "linkedin": "https://www.linkedin.com/in/xuengineer",
-      "status": "Please DM"
+      "status": "Please DM",
+      "linkedin": "https://www.linkedin.com/in/xuengineer"
     },
     {
       "category": "Software Engineering",
@@ -126,6 +360,36 @@
       "name": "Peter Shi",
       "linkedin": "https://www.linkedin.com/in/ptrshi/",
       "calendly": "https://calendly.com/p_shi/30min"
+    },
+    {
+      "category": "Software Engineering",
+      "name": "Michael Chan",
+      "linkedin": "https://www.linkedin.com/in/michachan/",
+      "calendly": "https://calendly.com/michachan/boba?month=2022-11"
+    },
+    {
+      "category": "Software Engineering",
+      "name": "Shivani Gandhi (Student)",
+      "linkedin": "https://www.linkedin.com/in/shivanirgandhi",
+      "calendly": "https://calendly.com/shivanirgandhi"
+    },
+    {
+      "category": "Software Engineering",
+      "name": "Isabella Enriquez (Student)",
+      "linkedin": "https://www.linkedin.com/in/isabellaenriquez/",
+      "calendly": "https://calendly.com/isabellaenriquez/1-on-1-with-isabella?month=2022-09"
+    },
+    {
+      "category": "Software Engineering",
+      "name": "Jessica Li (Student)",
+      "linkedin": "https://www.linkedin.com/in/jessica-a-li",
+      "calendly": "https://calendly.com/jessicaa-li/30min"
+    },
+    {
+      "category": "Tech Consulting",
+      "name": "Huy Tran",
+      "linkedin": "https://www.linkedin.com/in/huy-gia-tran/",
+      "calendly": "https://calendly.com/huytran321/"
     },
     {
       "category": "Product Management",
@@ -143,7 +407,7 @@
       "category": "Product Management",
       "name": "Ben Shih",
       "linkedin": "https://www.linkedin.com/in/ben-shih%F0%9F%A7%8B-05715242",
-      "calendly": "https://lnkd.in/g9K55Rzy"
+      "calendly": "https://calendly.com/bobatalksben/30min?month=2022-12"
     },
     {
       "category": "Product Management",
@@ -172,8 +436,8 @@
     {
       "category": "Product Management",
       "name": "Lynn Nguyen",
-      "linkedin": "https://www.linkedin.com/in/nguyenngoclynn/",
-      "status": "Offline"
+      "status": "Offline",
+      "linkedin": "https://www.linkedin.com/in/nguyenngoclynn/"
     },
     {
       "category": "Product Management",
@@ -194,6 +458,24 @@
       "calendly": "https://calendly.com/aandymai/30min"
     },
     {
+      "category": "Project/Program Management",
+      "name": "Christina Warmbrunn",
+      "linkedin": "https://www.linkedin.com/in/christina-warmbrunn/",
+      "calendly": "https://calendly.com/cwarmbrunn/bobatalks?month=2022-10"
+    },
+    {
+      "category": "Project/Program Management",
+      "name": "Katrina Honer",
+      "linkedin": "https://www.linkedin.com/in/katrinahoner/",
+      "calendly": "https://calendly.com/alongcamekatrina/meet-greet"
+    },
+    {
+      "category": "Human Resources",
+      "name": "Jonathan Chan",
+      "linkedin": "https://www.linkedin.com/in/jonathanchanyh/",
+      "calendly": "https://calendly.com/jonathanchan128"
+    },
+    {
       "category": "Recruiting",
       "name": "Melanie Gonzalez",
       "linkedin": "https://www.linkedin.com/in/melaniebgonzalez/",
@@ -203,7 +485,7 @@
       "category": "Recruiting",
       "name": "Kayla Franklin",
       "linkedin": "https://www.linkedin.com/in/kayla-franklin",
-      "calendly": "https://lnkd.in/gnMcNRAw"
+      "calendly": "https://calendly.com/kayla-franklin"
     },
     {
       "category": "Recruiting",
@@ -290,298 +572,22 @@
       "calendly": "https://calendly.com/desadowell/30min-bobatalks"
     },
     {
-      "category": "Engineering",
-      "name": "Rain Cinco",
-      "linkedin": "https://linkedin.com/in/raincinco",
-      "calendly": "https://calendly.com/raincinco"
-    },
-    {
-      "category": "Engineering",
-      "name": "Carol Kao",
-      "linkedin": "https://www.linkedin.com/in/carol-kao-08092319a/",
-      "calendly": "https://calendly.com/ckaoys3/bobatalks?month=2022-09"
-    },
-    {
-      "category": "Engineering",
-      "name": "Junaid S",
-      "linkedin": "https://www.linkedin.com/in/junaid-s/",
-      "calendly": "https://calendly.com/jsaeed/30min?month=2022-09"
-    },
-    {
-      "category": "Engineering",
-      "name": "Tina Do",
-      "linkedin": "https://www.linkedin.com/in/tina-do/",
-      "calendly": "https://calendly.com/tina-do-1"
-    },
-    {
-      "category": "Human Resources",
-      "name": "Jonathan Chan",
-      "linkedin": "https://www.linkedin.com/in/jonathanchanyh/",
-      "calendly": "https://calendly.com/jonathanchan128"
-    },
-    {
       "category": "Marketing",
       "name": "Michelle Li",
       "linkedin": "https://www.linkedin.com/in/michelleliattech",
-      "calendly": "https://lnkd.in/gdWYUXt3"
+      "calendly": "https://calendly.com/michelleliattech"
     },
     {
       "category": "Marketing",
-      "name": "Bria Lee",
-      "linkedin": "https://www.linkedin.com/in/brialee/",
-      "calendly": "https://calendly.com/brialee/bobatalk?month=2022-09"
+      "name": "Bria Powlan",
+      "linkedin": "https://www.linkedin.com/in/briapowlan/",
+      "calendly": "https://calendly.com/briapowlan/bobatalk?month=2022-12"
     },
     {
       "category": "Marketing",
       "name": "Isaac Min",
       "linkedin": "https://www.linkedin.com/in/isaacmin",
       "calendly": "https://calendly.com/isaac-min/30min"
-    },
-    {
-      "category": "Mental Health",
-      "name": "Jen L",
-      "linkedin": "https://www.linkedin.com/in/jlam/",
-      "calendly": "https://calendly.com/jammica"
-    },
-    {
-      "category": "Mental Health",
-      "name": "Ryann Tanap",
-      "linkedin": "https://www.linkedin.com/in/rmtanap/",
-      "calendly": "https://calendly.com/rmtanap/bobatalk"
-    },
-    {
-      "category": "Mental Health",
-      "name": "Gary Hwu",
-      "linkedin": "https://www.linkedin.com/in/garyhwu/",
-      "calendly": "https://calendly.com/garyhwu"
-    },
-    {
-      "category": "Mental Health",
-      "name": "Marian Huynh",
-      "linkedin": "https://www.linkedin.com/in/marianhuynh",
-      "calendly": "https://calendly.com/marianmh"
-    },
-    {
-      "category": "Mental Health",
-      "name": "Surabhi Kaplay",
-      "linkedin": "https://www.linkedin.com/in/surabhi-kaplay/",
-      "calendly": "https://calendly.com/svkaplay/30min"
-    },
-    {
-      "category": "Mental Health",
-      "name": "Seo Choe",
-      "linkedin": "https://www.linkedin.com/in/seochoe/",
-      "calendly": "https://calendly.com/seochoe"
-    },
-    {
-      "category": "Mental Health",
-      "name": "Sayali Kandarkar",
-      "linkedin": "https://www.linkedin.com/in/sayalikandarkar/",
-      "calendly": "https://calendly.com/sayalimat/boba-talks"
-    },
-    {
-      "category": "Mental Health",
-      "name": "Jason Wu",
-      "linkedin": "https://www.linkedin.com/in/jason-wu-41b006127/",
-      "calendly": "https://calendly.com/wraichu"
-    },
-    {
-      "category": "Gaming",
-      "name": "Marty Wong",
-      "linkedin": "https://www.linkedin.com/in/martin-wong-73aa72a3/",
-      "calendly": "https://calendly.com/martin-wong-512"
-    },
-    {
-      "category": "Gaming",
-      "name": "Christina Warmbrunn",
-      "linkedin": "https://www.linkedin.com/in/christina-warmbrunn/",
-      "calendly": "https://calendly.com/cwarmbrunn/bobatalks?month=2022-10"
-    },
-    {
-      "category": "Gaming",
-      "name": "David Park",
-      "linkedin": "https://www.linkedin.com/in/parkhdavid/",
-      "calendly": "https://calendly.com/parkhdavid/bobatalks-chat-david-park"
-    },
-    {
-      "category": "Data",
-      "name": "Anh Nguyen (Yumi)",
-      "linkedin": "https://www.linkedin.com/in/hoanganh197/",
-      "calendly": "https://calendly.com/d/dy7-qq4-n6c/bobatalk-block"
-    },
-    {
-      "category": "Data",
-      "name": "Alex Chang",
-      "linkedin": "https://www.linkedin.com/in/alex1491949",
-      "calendly": "https://calendly.com/alexchang149/30min"
-    },
-    {
-      "category": "Data",
-      "name": "George Chen",
-      "linkedin": "https://www.linkedin.com/in/hau-hsueh-chen/",
-      "calendly": "https://calendly.com/georgechen1997"
-    },
-    {
-      "category": "Data",
-      "name": "Shin Tran",
-      "linkedin": "https://www.linkedin.com/in/swtran/",
-      "calendly": "https://calendly.com/swtran"
-    },
-    {
-      "category": "Career Consultation",
-      "name": "Rob Kim",
-      "linkedin": "https://www.linkedin.com/in/robsungryongkim/",
-      "calendly": "https://calendly.com/coachrobkim/bobatalks"
-    },
-    {
-      "category": "Career Consultation",
-      "name": "Nelson Ingle",
-      "linkedin": "https://linkedin.com/in/nelsoningle",
-      "calendly": "https://calendly.com/simplyagile/boba-talks"
-    },
-    {
-      "category": "Career Consultation",
-      "name": "Nawara Medders",
-      "linkedin": "https://www.linkedin.com/in/nfmedders/",
-      "calendly": "https://calendly.com/nfmedders/bobatalks-nawara"
-    },
-    {
-      "category": "Career Consultation",
-      "name": "Raymond Chung",
-      "linkedin": "https://www.linkedin.com/in/raymondchung95/",
-      "calendly": "https://calendly.com/raymondchung"
-    },
-    {
-      "category": "Career Consultation",
-      "name": "Alex Imahara",
-      "linkedin": "https://www.linkedin.com/in/aleximahara/",
-      "calendly": "https://calendly.com/aimahara/boba-talks"
-    },
-    {
-      "category": "Software Engineering (Students)",
-      "name": "Shivani Gandhi",
-      "linkedin": "https://www.linkedin.com/in/shivanirgandhi",
-      "calendly": "https://calendly.com/shivanirgandhi"
-    },
-    {
-      "category": "Software Engineering (Students)",
-      "name": "Isabella Enriquez",
-      "linkedin": "https://www.linkedin.com/in/isabellaenriquez/",
-      "calendly": "https://calendly.com/isabellaenriquez/1-on-1-with-isabella?month=2022-09"
-    },
-    {
-      "category": "Software Engineering (Students)",
-      "name": "Jessica Li",
-      "linkedin": "https://www.linkedin.com/in/jessica-a-li",
-      "calendly": "https://calendly.com/jessicaa-li/30min"
-    },
-    {
-      "category": "UX, UI, Product Designers",
-      "name": "Thy Tran",
-      "linkedin": "https://www.linkedin.com/in/thy-tran",
-      "calendly": "https://lnkd.in/gVpFNHf7"
-    },
-    {
-      "category": "UX, UI, Product Designers",
-      "name": "Emma Li",
-      "linkedin": "https://www.linkedin.com/in/emmalili/",
-      "calendly": "https://calendly.com/uxemmali/bobatalk?month=2022-09"
-    },
-    {
-      "category": "UX, UI, Product Designers",
-      "name": "Michelle Ta",
-      "linkedin": "https://www.linkedin.com/in/michellequynhnhita/",
-      "calendly": "https://calendly.com/michellequynhnhita/mentorshipservices-michelle-"
-    },
-    {
-      "category": "UX, UI, Product Designers",
-      "name": "Julia Cheng",
-      "linkedin": "https://www.linkedin.com/in/julia-cheng-9825771b5",
-      "calendly": "https://calendly.com/juccheng/zoom-meeting-julia-you?month=2022-10"
-    },
-    {
-      "category": "UX, UI, Product Designers",
-      "name": "Jordan Yep",
-      "linkedin": "https://www.linkedin.com/in/jordanyep/",
-      "calendly": "https://calendly.com/jordanyep"
-    },
-    {
-      "category": "UX, UI, Product Designers",
-      "name": "Andrew Wong",
-      "linkedin": "https://www.linkedin.com/in/awong11/",
-      "calendly": "https://calendly.com/andrewhuwong11/15min"
-    },
-    {
-      "category": "Women in STEM, POC, WOC, AAPI, or LGBTQ+ Support",
-      "name": "Catherine Kim",
-      "linkedin": "https://www.linkedin.com/in/cthrnkm",
-      "calendly": "https://calendly.com/cthrnkm"
-    },
-    {
-      "category": "Women in STEM, POC, WOC, AAPI, or LGBTQ+ Support",
-      "name": "Yuna Park",
-      "linkedin": "https://www.linkedin.com/in/yrosepark/",
-      "calendly": "https://calendly.com/yrosepark"
-    },
-    {
-      "category": "Women in STEM, POC, WOC, AAPI, or LGBTQ+ Support",
-      "name": "Sola Chang",
-      "linkedin": "https://www.linkedin.com/in/sola8/",
-      "calendly": "https://calendly.com/solac"
-    },
-    {
-      "category": "Women in STEM, POC, WOC, AAPI, or LGBTQ+ Support",
-      "name": "Lacy Pennell",
-      "linkedin": "https://www.linkedin.com/in/lacypennell/",
-      "calendly": "https://calendly.com/lacypennell/30min"
-    },
-    {
-      "category": "Women in STEM, POC, WOC, AAPI, or LGBTQ+ Support",
-      "name": "Christina Warmbrunn",
-      "linkedin": "https://www.linkedin.com/in/christina-warmbrunn/",
-      "calendly": "https://calendly.com/cwarmbrunn/bobatalks?month=2022-10"
-    },
-    {
-      "category": "Finance // Accounting // Banking",
-      "name": "Hester Lam",
-      "linkedin": "https://www.linkedin.com/in/hester-lam/",
-      "calendly": "https://calendly.com/hesterlam/30min"
-    },
-    {
-      "category": "Finance // Accounting // Banking",
-      "name": "Anita Chin",
-      "linkedin": "https://www.linkedin.com/in/peyrong-anita-chin-5250785b/",
-      "calendly": "https://calendly.com/c-anita"
-    },
-    {
-      "category": "Project/Program Management",
-      "name": "Christina Warmbrunn",
-      "linkedin": "https://www.linkedin.com/in/christina-warmbrunn/",
-      "calendly": "https://calendly.com/cwarmbrunn/bobatalks?month=2022-10"
-    },
-    {
-      "category": "Project/Program Management",
-      "name": "Katrina Honer",
-      "linkedin": "https://www.linkedin.com/in/katrinahoner/",
-      "calendly": "https://calendly.com/alongcamekatrina/meet-greet"
-    },
-    {
-      "category": "Social Media / General Media",
-      "name": "Raymond Luu",
-      "linkedin": "https://www.linkedin.com/in/raymondluu15/",
-      "calendly": "https://lnkd.in/gW2hwCEV"
-    },
-    {
-      "category": "BioTech",
-      "name": "Jenny To",
-      "linkedin": "https://www.linkedin.com/in/thaojennyto/",
-      "calendly": "https://calendly.com/jennytto/boba-talk"
-    },
-    {
-      "category": "BioTech",
-      "name": "Zoila Rossi",
-      "linkedin": "https://www.linkedin.com/in/zoila-roh/",
-      "calendly": "https://calendly.com/zoila_/bobatalks-1-on-1?month=2022-11"
     },
     {
       "category": "Business",
@@ -596,10 +602,16 @@
       "calendly": "https://calendly.com/curioushieu/bobatalk"
     },
     {
-      "category": "Cybersecurity",
-      "name": "Huy Tran",
-      "linkedin": "https://www.linkedin.com/in/huy-gia-tran/",
-      "calendly": "https://calendly.com/huytran321/"
+      "category": "Finance // Accounting // Banking",
+      "name": "Hester Lam",
+      "linkedin": "https://www.linkedin.com/in/hester-lam/",
+      "calendly": "https://calendly.com/hesterlam/30min"
+    },
+    {
+      "category": "Finance // Accounting // Banking",
+      "name": "Anita Chin",
+      "linkedin": "https://www.linkedin.com/in/peyrong-anita-chin-5250785b/",
+      "calendly": "https://calendly.com/c-anita"
     }
   ]
 }
