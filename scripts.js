@@ -53,9 +53,10 @@ $(document).ready(() => {
   })
     .then((response) => response.json())
     .then((data) => {
-      //   const categories = data.mentors.map((mentor) => mentor.category);
+      // Update last modified date from data
       $("h2#modified").text(`As of ${data.lastModified}`);
 
+      // Generate list of mentors for every category
       const categoryMentors = data.mentors.reduce((accum, currentMentor) => {
         if (!accum[currentMentor.category]?.length) {
           accum[currentMentor.category] = [currentMentor];
@@ -66,31 +67,34 @@ $(document).ready(() => {
         return accum;
       }, {});
 
-      Object.entries(categoryMentors).forEach(([category, mentors]) => {
-        const categoryId = getSerializedId(category);
+      // Loop through every category and write mentors to the page
+      Object.entries(categoryMentors)
+        .sort((a, b) => a[1].length < b[1].length)
+        .forEach(([category, mentors]) => {
+          const categoryId = getSerializedId(category);
 
-        mentors.sort((a, b) => {
-          const nameA = a.name.toUpperCase();
-          const nameB = b.name.toUpperCase();
-          if (nameA < nameB) {
-            return -1;
-          }
-          if (nameA > nameB) {
-            return 1;
-          }
+          mentors.sort((a, b) => {
+            const nameA = a.name.toUpperCase();
+            const nameB = b.name.toUpperCase();
+            if (nameA < nameB) {
+              return -1;
+            }
+            if (nameA > nameB) {
+              return 1;
+            }
 
-          return 0;
-        });
+            return 0;
+          });
 
-        $("ul#categories").append(
-          `<li class="category" id="${categoryId}" key="${categoryId}">
+          $("ul#categories").append(
+            `<li class="category" id="${categoryId}" key="${categoryId}">
             <div class="category-title"><strong>${category}</strong></div>
           </li>`
-        );
+          );
 
-        mentors.forEach((mentor) => {
-          $(`li#${categoryId}`).append(getMentorRow(mentor));
+          mentors.forEach((mentor) => {
+            $(`li#${categoryId}`).append(getMentorRow(mentor));
+          });
         });
-      });
     });
 });
