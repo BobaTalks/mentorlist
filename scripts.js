@@ -54,6 +54,7 @@ $(document).ready(() => {
     .then((response) => response.json())
     .then((data) => {
       //   const categories = data.mentors.map((mentor) => mentor.category);
+      $("h2#modified").text(`As of ${data.lastModified}`);
 
       const categoryMentors = data.mentors.reduce((accum, currentMentor) => {
         if (!accum[currentMentor.category]?.length) {
