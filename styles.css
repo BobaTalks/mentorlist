@@ -90,6 +90,10 @@ a {
   margin-left: 8px;
 }
 
+.select2-container--default .select2-selection--multiple {
+  border-radius: 5px;
+}
+
 .categories {
   display: flex;
   flex-wrap: wrap;
@@ -98,10 +102,10 @@ a {
 
 .category {
   border: solid 2px #7d5160;
+  border-radius: 5px;
   margin: 12px auto;
   text-align: center;
   width: 300px;
-  border-radius: 5px;
 }
 
 .category-title {
@@ -153,16 +157,11 @@ a {
   transform: scale(1.2);
 }
 
-.calendly[disabled="disabled"] {
+.calendly[disabled='disabled'] {
   pointer-events: none;
   cursor: not-allowed;
 }
 
-.calendly[disabled="disabled"] > .logo {
+.calendly[disabled='disabled'] > .logo {
   opacity: 0.5;
-}
-
-/* Overwrites select2 input style */
-.select2-container--default .select2-selection--multiple {
-  border-radius: 5px;
 }
