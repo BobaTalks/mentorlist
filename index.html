@@ -13,6 +13,8 @@
   <link rel="stylesheet" href="./styles.css" />
   <script src="https://code.jquery.com/jquery-3.6.1.min.js"
     integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
 </head>
 
 <body>
@@ -20,6 +22,15 @@
     <img style="margin: auto; max-width: 768px; width: 100%; height: auto" src="./assets/bobamentors.png" alt="Image of two personified bubble
       teas with BobaTalks below" />
     <h2 id="modified" style="text-align: center"></h2>
+  </section>
+
+  <section>
+    <div id="filters" class="filters"></div>
+    <div class="multi-filter-container">
+      <span class="multi-filter__label">Filters</span>
+      <select class="multi-filter__select2" id="multiFilter" multiple></select>
+      <button class="multi-filter__button" id="multiFilterClear">Clear</button>
+    </div>
   </section>
 
   <section>
