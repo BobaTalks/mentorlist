@@ -71,7 +71,7 @@ $(document).ready(() => {
 
       // Loop through every category and write mentors to the page
       Object.entries(categoryMentors)
-        .sort((a, b) => a[1].length < b[1].length)
+        .sort((a, b) => a[1].length - b[1].length)
         .forEach(([category, mentors]) => {
           const categoryId = getSerializedId(category);
 
@@ -88,11 +88,11 @@ $(document).ready(() => {
             return 0;
           });
 
-          $("ul#categories").append(
-            `<li class="category" id="${categoryId}" key="${categoryId}">
+        $("ul#categories").append(
+          `<li class="category" id="${categoryId}" key="${categoryId}">
             <div class="category-title"><strong>${category}</strong></div>
           </li>`
-          );
+        );
 
           mentors.forEach((mentor) => {
             $(`li#${categoryId}`).append(getMentorRow(mentor));
