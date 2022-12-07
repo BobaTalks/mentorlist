@@ -55,6 +55,8 @@ Visit the current list at [BobaTalks Mentor List](https://bobatalks.github.io)
 
 ## :book: Additional Resources
 
+- Note: Contributing to this project assumes adherence to the project [Code of Conduct](CODE_OF_CONDUCT.md)
+
 - [Generic Forking and Pull Request Workflow](https://gist.github.com/jwu910/0b7327c2c613f21d913bfae9ced57f04)
 
 - [Git Guides](https://github.com/git-guides)
