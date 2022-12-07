@@ -1,5 +1,5 @@
-## Describe your changes
-- _Provide a short summary of the changes you have made here_
+## Summary
+<!-- Provide a short description of the changes you have made here -->
 
 ## Issue ticket number and link
 - Issue #[xyz]
@@ -8,4 +8,4 @@
 - [ ] I have performed a self-review of my code
 
 ## Screenshots (if applicable)
-- _Example of ABC_
+<!-- Example of ABC -->
