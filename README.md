@@ -9,7 +9,7 @@
 
 ## :gift: Browsing current mentors
 
-Visit the current list at [BobaTalks Mentor List](https://bobatalks.github.io)
+Visit the current list at [BobaTalks Mentor List](https://bobatalks.github.io/mentorlist)
 
 ## :rocket: Adding New Mentors (access required)
 
