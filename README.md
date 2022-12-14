@@ -28,7 +28,7 @@ Visit the current list at [BobaTalks Mentor List](https://bobatalks.github.io)
 
 3. Update the source file on GitHub
 
-   - [Edit this file](https://github.com/BobaTalks/bobatalks.github.io/blob/main/mentorlist.json)
+   - [Edit this file](https://github.com/BobaTalks/mentorlist/blob/main/mentorlist.json)
 
    ![image](assets/README-github.png)
 

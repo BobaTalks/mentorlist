@@ -46,7 +46,7 @@ const getSerializedId = (id) => {
 };
 
 $(document).ready(() => {
-  fetch("../mentorlist.json", {
+  fetch("./mentorlist.json", {
     headers: {
       "Content-Type": "application/json",
     },
