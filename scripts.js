@@ -71,7 +71,7 @@ $(document).ready(() => {
 
       // Loop through every category and write mentors to the page
       Object.entries(categoryMentors)
-        .sort((a, b) => a[1].length - b[1].length)
+        .sort((a, b) => b[1].length - a[1].length)
         .forEach(([category, mentors]) => {
           const categoryId = getSerializedId(category);
 
