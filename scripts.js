@@ -24,7 +24,7 @@ const getMentorRow = (mentor) => {
 const getBookmeLink = (mentor) => {
   return `
 <a class="bookme" alt="external link to booking site" disabled="${
-    !!mentor.status && "disabled"
+    !!mentor.status || !mentor.bookMe && "disabled"
   }" target="_blank" rel="noopener noreferrer" 
 ${
   !mentor.status
