@@ -161,11 +161,11 @@ a {
   transform: scale(1.2);
 }
 
-.calendly[disabled="disabled"] {
+.bookme[disabled="disabled"] {
   pointer-events: none;
   cursor: not-allowed;
 }
 
-.calendly[disabled="disabled"] > .logo {
+.bookme[disabled="disabled"] > .logo {
   opacity: 0.5;
 }

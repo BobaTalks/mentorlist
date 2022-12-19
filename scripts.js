@@ -9,7 +9,7 @@ const getMentorRow = (mentor) => {
             }">
                 <img class="logo" src="assets/linkedin_logo.png" alt="LinkedIn logo" />
             </a>
-           ${getCalendlyLink(mentor)}
+           ${getBookmeLink(mentor)}
         </div>
         ${
           mentor.status
@@ -21,19 +21,19 @@ const getMentorRow = (mentor) => {
     `;
 };
 
-const getCalendlyLink = (mentor) => {
+const getBookmeLink = (mentor) => {
   return `
-<a class="calendly" alt="external link to calendly" disabled="${
+<a class="bookme" alt="external link to booking site" disabled="${
     !!mentor.status && "disabled"
   }" target="_blank" rel="noopener noreferrer" 
 ${
   !mentor.status
     ? `
-    href="${!mentor.status ? mentor.calendly : ""}"
+    href="${!mentor.status ? mentor.bookMe : ""}"
     `
     : ""
 }>
-<img class="logo" src="assets/calendly_logo.png" alt="Calendly logo" />
+<img class="logo" src="assets/Calendar_1.png" alt="Calendar logo" />
 </a>
     `;
 };
@@ -88,11 +88,11 @@ $(document).ready(() => {
             return 0;
           });
 
-        $("ul#categories").append(
-          `<li class="category" id="${categoryId}" key="${categoryId}">
+          $("ul#categories").append(
+            `<li class="category" id="${categoryId}" key="${categoryId}">
             <div class="category-title"><strong>${category}</strong></div>
           </li>`
-        );
+          );
 
           mentors.forEach((mentor) => {
             $(`li#${categoryId}`).append(getMentorRow(mentor));
