@@ -1,5 +1,5 @@
 {
-    "lastModified": "December 18, 2022",
+    "lastModified": "December 20, 2022",
     "mentors": [
         {
             "category": "Undecided",
@@ -629,6 +629,12 @@
             "name": "Anita Chin",
             "linkedin": "https://www.linkedin.com/in/peyrong-anita-chin-5250785b/",
             "bookMe": "https://calendly.com/c-anita"
+        },
+        {
+            "category": "Undecided",
+            "name": "Test user",
+            "linkedin": "Linkedin.com",
+            "status": "Please DM"
         }
     ]
 }
