@@ -102,12 +102,13 @@ a {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
+  justify-content: space-around;
 }
 
 .category {
   border: solid 2px #7d5160;
   border-radius: 5px;
-  margin: 12px auto;
+  margin: 12px;
   text-align: center;
   width: 300px;
 }
@@ -116,7 +117,7 @@ a {
   background-color: #7d5160;
   color: #faeada;
   display: flex;
-  height: 64px;
+  height: 80px;
   padding: 12px;
 }
 
@@ -168,4 +169,28 @@ a {
 
 .bookme[disabled="disabled"] > .logo {
   opacity: 0.5;
+}
+
+@media only screen and (max-width: 976px) {
+  .category {
+    width: 40%;
+  }
+}
+
+@media only screen and (max-width: 646px) {
+  .category {
+    margin: 12px auto;
+    width: 80%;
+  }
+}
+
+@media only screen and (min-width: 976px) {
+  .categories {
+    justify-content: unset;
+  }
+
+  .categories::after {
+    content: "";
+    flex: auto;
+  }
 }
